@@ -16,6 +16,8 @@ In this project, let's build a **Speedometer** by applying the concepts we have 
 - [Extra Small (Size < 576px) and Small (Size >= 576px)](https://assets.ccbp.in/frontend/content/react-js/speedometer-sm-output.png)
 - [Medium (Size >= 768px), Large (Size >= 992px) and Extra Large (Size >= 1200px)](https://assets.ccbp.in/frontend/content/react-js/speedometer-lg-output.png)
 
+- Here is the link to view the project Output: https://speedometerrm.ccbp.tech
+
 </details>
 
 ### Set Up Instructions
